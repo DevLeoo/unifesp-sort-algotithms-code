@@ -1,0 +1,21 @@
+{
+  "name": "sort-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": ""
+  },
+  "keywords": [],
+  "author": "Leonardo Candido",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "sucrase": "^3.34.0",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.0"
+  }
+}
